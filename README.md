@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there
+## Hi there
+### Hi there 
+#### Hi there
+##### Hi there
 
-<!--
-**lsm6670/lsm6670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+**bold**
+*italic*
+~~strikethrough~~
 
-Here are some ideas to get you started:
+> 인용구
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 1번 
+* 2번
+- 3번
+- 4번
+```
+print('파이썬')
+```
